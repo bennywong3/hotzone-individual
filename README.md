@@ -3,7 +3,10 @@ Contributors:
 
 - Wong Ka Ngai (UID 3035568881)
 
-Django project root hz, readme.pdf and README.md is included in this zip file.
+Django project root hz, readme.pdf and README.md is included.
+
+## Project description
+Please read HotZone_ProjectDescription.pdf for more details.
 
 ## Installation
 
