@@ -1,0 +1,11 @@
+<h1>HotZone Geodata Input</h1>
+
+<form method="get">
+  <input type="text" name="userinput">
+  <button type="submit">Go</button>
+</form>
+{% if name2 %}
+  <p><h3>HTTP response is successful, connected to Geodata Location Search API.</h3></p>
+  <p>Location <strong>{{ name2 }}</strong> <br>with address <strong>{{ address2 }}</strong>
+    <br>at X-coordindate: <strong>{{ Xcoor2 }}</strong> ,Y-coordindate <strong>{{ Ycoor2 }}</strong> <br>is found and imported to database.</p>
+{% endif %}
