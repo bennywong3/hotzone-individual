@@ -6,7 +6,19 @@ Contributors:
 Django project root hz, readme.pdf and README.md is included.
 
 ## Project description
-Please read HotZone_ProjectDescription.pdf for more details.
+Please read HotZone_ProjectDescription.pdf for more details of this project. 
+
+In short, this individual project is a practice of Agile development. The individual part ends at sprint 1, which makes the project web-enabled and allows users to search for the geodata of the input location.
+
+**You can access this project online**. 
+
+https://glacial-forest-18359.herokuapp.com/locations/find
+
+<h3>This project is put into production by switching to use gunicorn and a production-level DBMS, PostgreSQL, and then deploying to a cloud-based hosting platform, Heroku. </h3>
+
+You can aslo install this django project locally, see instuctions below.
+
+
 
 ## Installation
 
